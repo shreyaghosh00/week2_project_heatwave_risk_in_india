@@ -1,0 +1,16 @@
+Temperature,Humidity,WindSpeed,MortalityRate,Region
+35,40,12,2,North
+37,42,10,3,South
+40,38,8,5,East
+42,35,7,7,West
+39,37,11,4,North
+41,36,9,6,South
+38,45,10,3,East
+36,50,13,2,West
+43,32,6,8,North
+45,30,5,9,South
+44,33,7,7,East
+39,41,11,4,West
+37,43,10,3,North
+40,39,8,5,South
+41,34,6,6,East
