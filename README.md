@@ -57,13 +57,8 @@ It builds upon **Week 1 (Project Selection & Dataset Creation)** by adding:
 - Saved **final dataset** for Week 3 modeling.  
 
 ---
-
- 🔮 Next Steps (Week 3 Preview)
-
-- Build **ML models** (classification/regression) using the processed dataset.  
-- Evaluate model performance using metrics.  
-- Deploy insights for **heatwave risk management**.  
+ 
 
 
 
-👨‍💻 *Developed as part of AICTE Internship Cycle 3 – Climate Risk & Disaster Management (S4F)*
+
